@@ -1,0 +1,41 @@
+## Windows ##
+# Thumbnails
+Thumbs.db
+
+# Archivo de configuración del sistema de Windows
+Desktop.ini
+
+## .NET ##
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de configuración de Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Archivos de configuración de Rider
+.idea/
+
+# Paquetes NuGet
+*.nupkg
+# Paquetes del proyecto
+packages/
+
+# Archivos de usuario de Visual Studio
+.vs2019/
+.vs2017/
+
+# Archivos de contenedor Docker
+.docker/
+
+## User-specific files ##
+# Archivos de usuario de Rider
+.idea/
+
+## Visual Studio for Mac
+.vscode/
+
+# Configuración local de Visual Studio (local.settings.json)
+.local/
