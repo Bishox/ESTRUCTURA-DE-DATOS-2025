@@ -1,16 +1,29 @@
-﻿public class Menu
-{
+﻿using System;
+using System.Collections.Generic;
+
+public class Menu
+{   
+
+
     public static void Main()
     {
        Titulo.encabezado();
+
+        // Lista de títulos para las semanas
+        List<string> semanas = new List<string>
+        {
+            "Semana 1", "Semana 2", "Semana 3", "Semana 4", "Semana 5", 
+            "Semana 6 Ejercicios-propuestos-de-listas-enlazada", "Semana 7 Pilas", "Semana 8" 
+        };
         
         while (true)
         {
-            // Mostrar el menú con las semanas disponibles hasta la semana 8
-            Console.WriteLine("\nSeleccione una semana del 1 al 8:");
-            for (int i = 1; i <= 8; i++)
+            // Mostrar el menú con las semanas disponibles
+            Console.WriteLine($"\nSeleccione una semana del 1 a {semanas.Count} :");
+            for (int i = 0 ; i < semanas.Count; i++)  
             {
-                Console.WriteLine($"{i}. Semana {i}");
+                Console.WriteLine($"{i+1}. {semanas[i]}");
+                
             }
             Console.WriteLine("0. Salir");
 
