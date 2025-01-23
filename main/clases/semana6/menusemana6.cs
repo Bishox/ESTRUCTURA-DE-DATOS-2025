@@ -7,7 +7,7 @@ public class semana6
         {
             Console.WriteLine("\nSeleccione un ejercicio para la Semana 6:");
             Console.WriteLine("1. Ejercicio 1 registro de Vehiculos");
-            Console.WriteLine("2. Ejercicio 2");
+            Console.WriteLine("2. Ejercicio 2 Creación y Filtrado de una Lista Enlazada de Números Aleatorios según un Rango Especificado");
             Console.WriteLine("0. Volver al menú principal");
 
             Console.Write("Ingrese su opción: ");

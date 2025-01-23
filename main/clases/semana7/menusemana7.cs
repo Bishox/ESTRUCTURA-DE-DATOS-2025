@@ -6,8 +6,8 @@ public class menusemana7
         while (true)
         {
             Console.WriteLine("\nSeleccione un ejercicio para la Semana 7:");
-            Console.WriteLine("1. Ejercicio 1");
-            Console.WriteLine("2. Ejercicio 2");
+            Console.WriteLine("1. Ejercicio 1 Pilas conceptos básicos");   
+            Console.WriteLine("2. Ejercicio 2");   // to do      
             Console.WriteLine("0. Volver al menú principal");
 
             Console.Write("Ingrese su opción: ");
