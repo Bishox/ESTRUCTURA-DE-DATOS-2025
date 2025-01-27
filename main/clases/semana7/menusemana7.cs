@@ -6,8 +6,8 @@ public class menusemana7
         while (true)
         {
             Console.WriteLine("\nSeleccione un ejercicio para la Semana 7:");
-            Console.WriteLine("1. Ejercicio 1 Pilas conceptos básicos");   
-            Console.WriteLine("2. Ejercicio 2");   // to do      
+            Console.WriteLine("1. Ejercicio 1 Formula balanceada");   
+            Console.WriteLine("2. Ejercicio 2 Torres de Hanoi.");   // to do      
             Console.WriteLine("0. Volver al menú principal");
 
             Console.Write("Ingrese su opción: ");
@@ -25,15 +25,16 @@ public class menusemana7
 
                     case 1:
                         Console.WriteLine("Has seleccionado el Ejercicio 1");
-                        semana8.pila();   // Llamada al método del Ejercicio 1 pila
+                        BalanceoOperaciones.formulaBalanceada();
                         break;
 
                     case 2:
                         Console.WriteLine("Has seleccionado el Ejercicio 2");
+                        TorresDeHanoi.resolver();
                         break;
 
                     default:
-                        Console.WriteLine("Opción no válida. Por favor, ingrese un número entre 0 y 8.");
+                        Console.WriteLine("Opción no válida. Por favor, ingrese un número entre 0 y 2.");
                         break;
                 }
             }
