@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
+﻿
 public class Menu
 {   
 
@@ -13,7 +11,8 @@ public class Menu
         List<string> semanas = new List<string>
         {
             "Semana 1", "Semana 2", "Semana 3", "Semana 4", "Semana 5", 
-            "Semana 6 Ejercicios-propuestos-de-listas-enlazada", "Semana 7 Ejerccios Pilas", "Semana 8 implementación de pilas y colas (Práctico experimental 2)" 
+            "Semana 6 Ejercicios-propuestos-de-listas-enlazada", "Semana 7 Ejerccios Pilas", 
+            "Semana 8 implementación de pilas y colas (Práctico experimental 2)" 
         };
         
         while (true)
