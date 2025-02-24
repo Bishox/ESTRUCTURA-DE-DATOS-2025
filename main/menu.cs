@@ -12,7 +12,7 @@ public class Menu
         {
             "Semana 1", "Semana 2", "Semana 3", "Semana 4", "Semana 5", 
             "Semana 6 Ejercicios-propuestos-de-listas-enlazada", "Semana 7 Ejerccios Pilas", 
-            "Semana 8 implementación de pilas y colas (Práctico experimental 2)" 
+            "Semana 8 implementación de pilas y colas (Práctico experimental 2)", "Semana 9 (Vacia)","Semana 10 Conjuntos" 
         };
         
         while (true)
@@ -68,6 +68,14 @@ public class Menu
                     case 8:
                         Console.WriteLine("Has seleccionado la Semana 8");
                         menusemana8.menu8();
+                        EsperarParaRegresar();
+                        break;
+                    case 9:
+                        Console.WriteLine("Has seleccionado la Semana 8");
+                        break;    
+                    case 10:
+                        Console.WriteLine("Has seleccionado la Semana 10");
+                        Conjuntos.CrearConjuntosFicticios();
                         EsperarParaRegresar();
                         break;
                     default:
