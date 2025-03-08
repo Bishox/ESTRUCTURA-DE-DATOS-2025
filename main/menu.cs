@@ -1,5 +1,4 @@
-﻿
-public class Menu
+﻿public class Menu
 {   
 
 
@@ -10,9 +9,19 @@ public class Menu
         // Lista de títulos para las semanas
         List<string> semanas = new List<string>
         {
-            "Semana 1", "Semana 2", "Semana 3", "Semana 4", "Semana 5", 
-            "Semana 6 Ejercicios-propuestos-de-listas-enlazada", "Semana 7 Ejerccios Pilas", 
-            "Semana 8 implementación de pilas y colas (Práctico experimental 2)", "Semana 9 (Vacia)","Semana 10 Conjuntos" 
+            "Semana 1", 
+            "Semana 2", 
+            "Semana 3", 
+            "Semana 4", 
+            "Semana 5", 
+            "Semana 6 Ejercicios-propuestos-de-listas-enlazada", 
+            "Semana 7 Ejerccios Pilas", 
+            "Semana 8 implementación de pilas y colas (Práctico experimental 2)", 
+            "Semana 9 (Vacia)",
+            "Semana 10 Conjuntos",
+            "Semana 11 Diccionarios",
+            "Semana 12 Conjuntos y mapas (Práctico 3)"
+
         };
         
         while (true)
@@ -76,6 +85,16 @@ public class Menu
                     case 10:
                         Console.WriteLine("Has seleccionado la Semana 10");
                         Conjuntos.CrearConjuntosFicticios();
+                        EsperarParaRegresar();
+                        break;
+                    case 11:
+                        Console.WriteLine("Has seleccionado la Semana 11");
+                        Traductor.menu_traductor();
+                        EsperarParaRegresar();
+                        break;
+                        case 12:
+                        Console.WriteLine("Has seleccionado la Semana 12");
+                        Libreria.libros();
                         EsperarParaRegresar();
                         break;
                     default:
