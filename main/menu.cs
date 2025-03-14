@@ -1,4 +1,5 @@
-﻿public class Menu
+﻿using EstructuraDeDatos.Semana6;
+public class Menu
 {   
 
 
@@ -20,7 +21,8 @@
             "Semana 9 (Vacia)",
             "Semana 10 Conjuntos",
             "Semana 11 Diccionarios",
-            "Semana 12 Conjuntos y mapas (Práctico 3)"
+            "Semana 12 Conjuntos y mapas (Práctico 3)",
+            "Semana 13 Arboles Binarios de Busqueda Recursiva"
 
         };
         
@@ -95,6 +97,11 @@
                         case 12:
                         Console.WriteLine("Has seleccionado la Semana 12");
                         Libreria.libros();
+                        EsperarParaRegresar();
+                        break;
+                        case 13:
+                        Console.WriteLine("Has seleccionado la Semana 12");
+                        Revistas.RevistasMenu();
                         EsperarParaRegresar();
                         break;
                     default:
