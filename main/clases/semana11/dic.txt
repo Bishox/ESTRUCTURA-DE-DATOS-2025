@@ -1,0 +1,379 @@
+casa,house
+libro,book
+escuela,school
+perro,dog
+gato,cat
+comida,food
+agua,water
+familia,family
+trabajo,work
+tiempo,time
+sol,sun
+luna,moon
+persona,person
+manzana,apple
+pelota,ball
+cielo,sky
+mar,sea
+tierra,earth
+flor,flower
+árbol,tree
+puerta,door
+ventana,window
+silla,chair
+mesa,table
+zapato,shoe
+camisa,shirt
+pantalón,pants
+niño,child
+mujer,woman
+hombre,man
+adulto,adult
+amigo,friend
+amor,love
+felicidad,happiness
+tristeza,sadness
+vacaciones,vacation
+día,day
+noche,night
+mañana,morning
+tarde,afternoon
+semana,week
+mes,month
+año,year
+hora,hour
+minuto,minute
+segundo,second
+rojo,red
+verde,green
+azul,blue
+amarillo,yellow
+negro,black
+blanco,white
+gris,gray
+morado,purple
+rosa,pink
+naranja,orange
+castaño,brown
+rojo claro,light red
+rojo oscuro,dark red
+beber,drink
+comer,eat
+caminar,walk
+correr,run
+vivir,live
+dormir,sleep
+trabajar,work
+estudiar,study
+aprender,learn
+enseñar,teach
+escribir,write
+leer,read
+hablar,speak
+escuchar,hear
+ver,see
+mirar,look
+sentir,feel
+pensar,think
+necesitar,need
+querer,want
+tener,have
+hacer,do
+decir,say
+contar,tell
+preguntar,ask
+responder,answer
+ayudar,help
+enviar,send
+recibir,receive
+comprar,buy
+vender,sell
+dar,give
+tomar,take
+cambiar,change
+salir,leave
+entrar,enter
+esperar,wait
+encontrar,find
+perder,lose
+subir,climb
+bajar,lower
+nadar,swim
+viajar,travel
+volar,fly
+manejar,drive
+montar,ride
+despertar,wake up
+empezar,start
+terminar,finish
+romper,break
+arreglar,fix
+crear,create
+destruir,destroy
+construir,build
+sentarse,sit
+levantarse,stand
+usar,use
+saber,know
+tocar,touch
+olvidar,forget
+recordar,remember
+detener,stop
+mover,move
+empujar,push
+tirar,throw
+levantar,lift
+callar,be quiet
+cantar,sing
+bailar,dance
+saltar,jump
+luchar,fight
+reír,laugh
+llorar,cry
+gritar,shout
+susurrar,whisper
+oír,hear
+decidir,decide
+city,ciudad
+beautifull,bonita
+casa, house
+libro, book
+escuela, school
+perro, dog
+gato, cat
+comida, food
+agua, water
+familia, family
+trabajo, work
+tiempo, time
+sol, sun
+luna, moon
+persona, person
+manzana, apple
+pelota, ball
+cielo, sky
+mar, sea
+tierra, earth
+flor, flower
+árbol, tree
+puerta, door
+ventana, window
+silla, chair
+mesa, table
+zapato, shoe
+camisa, shirt
+pantalón, pants
+niño, child
+mujer, woman
+hombre, man
+adulto, adult
+amigo, friend
+amor, love
+felicidad, happiness
+tristeza, sadness
+vacaciones, vacation
+día, day
+noche, night
+mañana, morning
+tarde, afternoon
+semana, week
+mes, month
+año, year
+hora, hour
+minuto, minute
+segundo, second
+rojo, red
+verde, green
+azul, blue
+amarillo, yellow
+negro, black
+blanco, white
+gris, gray
+morado, purple
+rosa, pink
+naranja, orange
+castaño, brown
+rojo claro, light red
+rojo oscuro, dark red
+beber, drink
+comer, eat
+caminar, walk
+correr, run
+vivir, live
+dormir, sleep
+trabajar, work
+estudiar, study
+aprender, learn
+enseñar, teach
+escribir, write
+leer, read
+hablar, speak
+escuchar, hear
+ver, see
+mirar, look
+sentir, feel
+pensar, think
+necesitar, need
+querer, want
+tener, have
+hacer, do
+decir, say
+contar, tell
+preguntar, ask
+responder, answer
+ayudar, help
+enviar, send
+recibir, receive
+comprar, buy
+vender, sell
+dar, give
+tomar, take
+cambiar, change
+salir, leave
+entrar, enter
+esperar, wait
+encontrar, find
+perder, lose
+subir, climb
+bajar, lower
+nadar, swim
+viajar, travel
+volar, fly
+manejar, drive
+montar, ride
+despertar, wake up
+empezar, start
+terminar, finish
+romper, break
+arreglar, fix
+crear, create
+destruir, destroy
+construir, build
+sentarse, sit
+levantarse, stand
+usar, use
+saber, know
+tocar, touch
+olvidar, forget
+recordar, remember
+detener, stop
+mover, move
+empujar, push
+tirar, throw
+levantar, lift
+callar, be quiet
+cantar, sing
+bailar, dance
+saltar, jump
+luchar, fight
+reír, laugh
+llorar, cry
+gritar, shout
+susurrar, whisper
+oír, hear
+decidir, decide
+ciudad, city
+bonita, beautiful
+feliz, happy
+triste, sad
+grande, big
+pequeño, small
+alto, tall
+bajo, short
+lento, slow
+rápido, fast
+fácil, easy
+difícil, difficult
+caro, expensive
+barato, cheap
+interesante, interesting
+aburrido, boring
+nuevo, new
+viejo, old
+limpio, clean
+sucio, dirty
+rico, rich (food)
+pobre, poor
+grueso, thick
+delgado, thin
+estrecho, narrow
+ancho, wide
+fuerte, strong
+débil, weak
+cálido, warm
+frío, cold
+seguro, safe
+peligroso, dangerous
+sabroso, tasty
+soso, bland
+perfecto, perfect
+incorrecto, incorrect
+valiente, brave
+miedoso, fearful
+rico, rich (person)
+pobre, poor (person)
+exitoso, successful
+fracasado, failed
+famoso, famous
+desconocido, unknown
+acerca, about
+bajo, under
+sobre, on
+entre, between
+al lado, next to
+delante, in front
+detrás, behind
+cerca, close
+lejos, far
+adentro, inside
+afuera, outside
+de acuerdo, agreed
+desacuerdo, disagreement
+anterior, previous
+posterior, next
+difuso, vague
+exacto, exact
+curioso, curious
+tímido, shy
+simpático, nice
+antipático, unfriendly
+inteligente, intelligent
+tonto, silly
+exhausto, exhausted
+energético, energetic
+cansado, tired
+gracioso, funny
+serio, serious
+caliente, hot
+frío, cool
+hermoso, beautiful
+feo, ugly
+transparente, transparent
+opaco, opaque
+luminoso, bright
+oscuro, dark
+visible, visible
+invisible, invisible
+delicioso, delicious
+horrible, horrible
+alegre, joyful
+triste, sorrowful
+sano, healthy
+enfermo, sick
+alto, high
+bajo, low
+malo, bad
+bueno, good
+calmo, calm
+nervioso, nervous
+tranquilo, peaceful
+estresado, stressed
+tímido, shy
+afortunado, lucky
+desafortunado, unlucky
+cerca, near
+lejos, far
+vacío, empty
+lleno, full
+roto, broken
+mama, mother
