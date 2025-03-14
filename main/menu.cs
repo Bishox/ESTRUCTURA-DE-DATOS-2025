@@ -82,7 +82,7 @@ public class Menu
                         EsperarParaRegresar();
                         break;
                     case 9:
-                        Console.WriteLine("Has seleccionado la Semana 8");
+                        Console.WriteLine("Has seleccionado la Semana 9");
                         break;    
                     case 10:
                         Console.WriteLine("Has seleccionado la Semana 10");
@@ -100,12 +100,12 @@ public class Menu
                         EsperarParaRegresar();
                         break;
                         case 13:
-                        Console.WriteLine("Has seleccionado la Semana 12");
+                        Console.WriteLine("Has seleccionado la Semana 13");
                         Revistas.RevistasMenu();
                         EsperarParaRegresar();
                         break;
                     default:
-                        Console.WriteLine("Opción no válida. Por favor, ingrese un número entre 0 y 8.");
+                        Console.WriteLine("Opción no válida. Por favor, ingrese un número entre 0 y 13.");
                         break;
                 }
             }
