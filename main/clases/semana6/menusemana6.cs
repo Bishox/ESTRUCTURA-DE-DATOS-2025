@@ -1,3 +1,4 @@
+using EstructuraDeDatos.Semana6;
 public class semana6
 {
     public static void menu6()
