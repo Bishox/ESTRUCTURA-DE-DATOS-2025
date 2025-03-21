@@ -1,4 +1,5 @@
 ﻿using EstructuraDeDatos.Semana6;
+using EstructuraDeDatos.Semana14;
 public class Menu
 {   
 
@@ -22,7 +23,8 @@ public class Menu
             "Semana 10 Conjuntos",
             "Semana 11 Diccionarios",
             "Semana 12 Conjuntos y mapas (Práctico 3)",
-            "Semana 13 Arboles Binarios de Busqueda Recursiva"
+            "Semana 13 Arboles Binarios de Busqueda Recursiva",
+            "Semana 14 Arboles Binarios (Operaciones en los árboles binarios) "
 
         };
         
@@ -102,6 +104,11 @@ public class Menu
                         case 13:
                         Console.WriteLine("Has seleccionado la Semana 13");
                         Revistas.RevistasMenu();
+                        EsperarParaRegresar();
+                        break;
+                        case 14:
+                        Console.WriteLine("Has seleccionado la Semana 14");
+                        MenuTemperaturas.EjecutarMenu();
                         EsperarParaRegresar();
                         break;
                     default:
