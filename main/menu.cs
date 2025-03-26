@@ -24,7 +24,8 @@ public class Menu
             "Semana 11 Diccionarios",
             "Semana 12 Conjuntos y mapas (Práctico 3)",
             "Semana 13 Arboles Binarios de Busqueda Recursiva",
-            "Semana 14 Arboles Binarios (Operaciones en los árboles binarios) "
+            "Semana 14 Arboles Binarios (Operaciones en los árboles binarios)",
+            "Semana 15 Grafos (Ejercicio grafos con matriz de adyacencia)"
 
         };
         
@@ -109,6 +110,11 @@ public class Menu
                         case 14:
                         Console.WriteLine("Has seleccionado la Semana 14");
                         MenuTemperaturas.EjecutarMenu();
+                        EsperarParaRegresar();
+                        break;
+                        case 15:
+                        Console.WriteLine("Has seleccionado la Semana 15");
+                        Grafos.grafos();
                         EsperarParaRegresar();
                         break;
                     default:
