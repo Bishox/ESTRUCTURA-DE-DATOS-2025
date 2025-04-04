@@ -24,7 +24,7 @@ public class menusemana16
                         return;  // Vuelve al menú principal
 
                     case 1:
-                        Console.WriteLine("Has seleccionado el Arbol genealógico");
+                        Console.WriteLine("Calculador de Vuelos.");
                         CalculadorDeVuelos.AgregarVuelo("A", "B", 100);
                         CalculadorDeVuelos.AgregarVuelo("A", "C", 300);
                         CalculadorDeVuelos.AgregarVuelo("B", "C", 100);
