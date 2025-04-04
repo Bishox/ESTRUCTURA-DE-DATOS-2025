@@ -16,7 +16,7 @@ public class Menu
             "Semana 3", 
             "Semana 4", 
             "Semana 5", 
-            "Semana 6 Ejercicios-propuestos-de-listas-enlazada", 
+            "Semana 6 Ejercicios propuestos listas-enlazadas", 
             "Semana 7 Ejerccios Pilas", 
             "Semana 8 implementación de pilas y colas (Práctico experimental 2)", 
             "Semana 9 (Vacia)",
@@ -25,7 +25,8 @@ public class Menu
             "Semana 12 Conjuntos y mapas (Práctico 3)",
             "Semana 13 Arboles Binarios de Busqueda Recursiva",
             "Semana 14 Arboles Binarios (Operaciones en los árboles binarios)",
-            "Semana 15 Grafos (Ejercicio grafos con matriz de adyacencia)"
+            "Semana 15 Grafos (Ejercicio grafos con matriz de adyacencia)",
+            "Semana 16 Calculador de Vuelos"
 
         };
         
@@ -97,24 +98,29 @@ public class Menu
                         Traductor.menu_traductor();
                         EsperarParaRegresar();
                         break;
-                        case 12:
+                    case 12:
                         Console.WriteLine("Has seleccionado la Semana 12");
                         Libreria.libros();
                         EsperarParaRegresar();
                         break;
-                        case 13:
+                    case 13:
                         Console.WriteLine("Has seleccionado la Semana 13");
                         Revistas.RevistasMenu();
                         EsperarParaRegresar();
                         break;
-                        case 14:
+                    case 14:
                         Console.WriteLine("Has seleccionado la Semana 14");
                         MenuTemperaturas.EjecutarMenu();
                         EsperarParaRegresar();
                         break;
-                        case 15:
+                    case 15:
                         Console.WriteLine("Has seleccionado la Semana 15");
                         Grafos.grafos();
+                        EsperarParaRegresar();
+                        break;
+                    case 16:
+                        Console.WriteLine("Has seleccionado la Semana 16");
+                        menusemana16.menu16();
                         EsperarParaRegresar();
                         break;
                     default:
